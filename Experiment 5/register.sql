@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `trn_date`) VALUES
-(1, 'rohan4900', 'rohan.darji12397@gmail.com', '8f1dae4cfa7156dc0e58f87d20a111e6', '2020-08-31 11:12:24');
+(1, 'rutvik j', 'rutvik.j@gmail.com', 'e4cfa7156de58f87d20a111e6', '2020-08-31 11:12:24');
 
 --
 -- Indexes for dumped tables
